@@ -3,5 +3,5 @@
         # . # . # 
         # # # # # 
         . . # . . 
-        . . # . .
-        `</field><next><block type="playMelody" id="L36%OpVvoO.j~8ggIx{c"><value name="melody"><shadow type="melody_editor" id="{4Z:S;Xj4y@Sj{,B4*KZ"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="D@|I;d(-}xpymdE__T)o"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement><statement name="ELSE"><block type="device_clear_display" id="[rpo)?7+Tm$?BVfWjZB|"><next><block type="playMelody" id=",Kqx0~W/o7QbzFXCucvt"><value name="melody"><shadow type="melody_editor" id="MSFG5UO-E$0!`GH~`5C5"><field name="melody">"C5 A B G A F G E "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="7__iaUW$OI!,h6nzb`[W"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block></next></block></statement></block></xml>
+        # # # # #
+        `</field></block></statement><statement name="ELSE"><block type="device_clear_display" id="[rpo)?7+Tm$?BVfWjZB|"></block></statement></block></next></block></statement></block></xml>
